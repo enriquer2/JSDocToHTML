@@ -22,6 +22,29 @@ document.getElementById('calcBtn').addEventListener('click', function () {
     document.getElementById("monthlyPayment").innerHTML = monthlyPayment.toFixed(2);
 });
 
+/**
+ * 
+ * @param {interger} born 
+ * @param {interger} date 
+ * @param {string} name Doesn't work 
+ */
+
+var calculateAge = function (born, date, name) {
+    if (born) {
+        var age = date - born;
+    }
+    var age = date - born;
+    return age;
+};
+
+document.getElementById('calcBtn1').addEventListener('click', function () {
+    var born = document.getElementById("born").value;
+    var date = document.getElementById("date").value;
+    var name = document.getElementById("name").value;
+    var age = calculateAge(born, date, name);
+    document.getElementById("age").innerHTML = age.toFixed(2);
+});
+
 
 
 
