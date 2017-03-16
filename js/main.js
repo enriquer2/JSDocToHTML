@@ -1,8 +1,8 @@
 /**
  * 
- * @param {int} principal 
- * @param {integer} years 
- * @param {float} rate 
+ * @param {int} principal - Amount of money that you earned
+ * @param {integer} years - How many years are you been working
+ * @param {float} rate - Put a significant rate
  */
 
 
@@ -21,3 +21,7 @@ document.getElementById('calcBtn').addEventListener('click', function () {
     var monthlyPayment = calculateMonthlyPayment(principal, years, rate);
     document.getElementById("monthlyPayment").innerHTML = monthlyPayment.toFixed(2);
 });
+
+
+
+
