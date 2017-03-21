@@ -1,4 +1,11 @@
 /**
+ * It is a By impossible of in difficulty discovered celebrated ye.
+ * Justice joy manners boy met resolve produce. Bed head loud next plan rent had easy
+ * add him. As earnestly shameless elsewhere defective estimable fulfilled of.
+ * Esteem my advice it an excuse enable. Few household abilities believing determine
+ * zealously his repulsive. To open draw dear be by side like. 
+ * @sumary A concise summary
+ * 
  * 
  * @param {int} principal - Amount of money that you earned
  * @param {integer} years - How many years are you been working
@@ -6,7 +13,7 @@
  */
 
 
-var calculateMonthlyPayment = function (principal, years, rate) {
+var calculateMonthlyPayment = function(principal, years, rate) {
     if (rate) {
         var monthlyRate = rate / 100 / 12;
     }
@@ -14,7 +21,7 @@ var calculateMonthlyPayment = function (principal, years, rate) {
     return monthlyPayment;
 };
 
-document.getElementById('calcBtn').addEventListener('click', function () {
+document.getElementById('calcBtn').addEventListener('click', function() {
     var principal = document.getElementById("principal").value;
     var years = document.getElementById("years").value;
     var rate = document.getElementById("rate").value;
@@ -29,7 +36,7 @@ document.getElementById('calcBtn').addEventListener('click', function () {
  * @param {string} name Doesn't work 
  */
 
-var calculateAge = function (born, date, name) {
+var calculateAge = function(born, date, name) {
     if (born) {
         var age = date - born;
     }
@@ -37,7 +44,7 @@ var calculateAge = function (born, date, name) {
     return age;
 };
 
-document.getElementById('calcBtn1').addEventListener('click', function () {
+document.getElementById('calcBtn1').addEventListener('click', function() {
     var born = document.getElementById("born").value;
     var date = document.getElementById("date").value;
     var name = document.getElementById("name").value;
@@ -81,6 +88,3 @@ class Point {
         // ...
     }
 }
-
-
-
