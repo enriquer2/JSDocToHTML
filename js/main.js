@@ -54,21 +54,32 @@ document.getElementById('calcBtn1').addEventListener('click', function() {
 
 /** Class representing a point. 
  * This is a description of the class
- * @class JAJAJAJAJAJAJAJAJAJAJAJAJAJAJAJAJAJAJAJAJA
- * @classdesc UYUYUYUYUYUYUYUYUYUYUYUYUYUYUYUYUYUYUYUY
- * @abstract PEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPE
- * @access NANANANANANANANANANANANANANANANANANANANANA
- * @alias OHOHOHOHOHOHOHOHOHOHOHOHOHOHOHOHOHOHOHOHOH
- * @augments JIJIJIJIJIJIJIJIJIJIJIJIJIJIJIJIJIJIJIJI
- * @author TUTUTUTUTUTUTUTUTUTUTUTUTUTUTUTUTUTUTUTU
- * @borrows DEDEDEDEDEDEDEDEDEDEDEDEDEDEDEDEDEDEDEDE
- * @callback LALALALALALALALALALALALALALALALALALALALA
- * @constant NONONONONONOONONONONONONONONONONONONONO
- * @constructs SISISISISISISISISISISISISISISISISISISI
- * @copyright KUKUKUKUKUKUKUKUKUKUKUKUKUKUKUKUKUKUKUKU
- * @default ZEZEZEZEZEZEZEZEZEZEZEZEZEZEZEZEZEZEZEZE
- * @deprecated DADADADADADADADADADADADADADADADADADADA
- * @description YOYOYOYOYOYOYOYOYOYOYOYOYOYOYOYOYOYOYO
+ * 
+ * H1 Casa
+ * Alt-H1
+ * 
+ * En esta clase nosotros tenemos que trabajar con un *punto* dando dos coordenadas
+ * 
+ * 1. Crearemos un punto
+ * 2. Haremos el get
+ * ..1. Tenemos que
+ * ..2. poner la palabra *get*
+ * 
+ * Despues de todo este tendremos un `punto` lo cual es importante.
+ * 
+ * ```Funciona?
+ * si esto no funciona sera porque has instroducido algo mas
+ * revisa el codigo
+ * ```
+ * 
+ * > Si quieres hacer un bloque tendras que hacerlo de esta forma
+ * > Veremos como sale
+ * 
+ * <dl>
+ *  <dt>Definition list </dt>
+ *  <dd> Is something people use sometimes </dd>
+ * </dl>
+ *
  */
 class Point {
     /**
