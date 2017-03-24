@@ -54,65 +54,47 @@ document.getElementById('calcBtn1').addEventListener('click', function() {
 
 /** Class representing a point. 
  * This is a description of the class
- * 
- * H1 Casa
- * Alt-H1
- * 
- * En esta clase nosotros tenemos que trabajar con un *punto* dando dos coordenadas
- * 
- * 1. Crearemos un punto
- * 2. Haremos el get
- * ..1. Tenemos que
- * ..2. poner la palabra *get*
- * 
- * Despues de todo este tendremos un `punto` lo cual es importante.
- * 
- * ```Funciona?
- * si esto no funciona sera porque has instroducido algo mas
- * revisa el codigo
- * ```
- * 
- * > Si quieres hacer un bloque tendras que hacerlo de esta forma
- * > Veremos como sale
- * 
- * <dl>
- *  <dt>Definition list </dt>
- *  <dd> Is something people use sometimes </dd>
- * </dl>
- *
  */
-class Point {
-    /**
-     * Create a point.
-     * @param {number} x - The x value.
-     * @param {number} y - The y value.
-     */
-    constructor(x, y) {
-        // ...
-    }
+1. First Item
+2. Second casa
 
-    /**
-     * Get the x value.
-     * @return {number} The x value.
-     */
-    getX() {
-        // ...
-    }
+# H1 Header
 
-    /**
-     * Get the y value.
-     * @return {number} The y value.
-     */
-    getY() {
-        // ...
-    }
+    **
+    Bold **
 
-    /**
-     * Convert a string containing two comma-separated numbers into a point.
-     * @param {string} str - The string containing two comma-separated numbers.
-     * @return {Point} A Point object.
-     */
-    static fromString(str) {
-        // ...
+    class Point {
+        /**
+         * Create a point.
+         * @param {number} x - The x value.
+         * @param {number} y - The y value.
+         */
+        constructor(x, y) {
+            // ...
+        }
+
+        /**
+         * Get the x value.
+         * @return {number} The x value.
+         */
+        getX() {
+            // ...
+        }
+
+        /**
+         * Get the y value.
+         * @return {number} The y value.
+         */
+        getY() {
+            // ...
+        }
+
+        /**
+         * Convert a string containing two comma-separated numbers into a point.
+         * @param {string} str - The string containing two comma-separated numbers.
+         * @return {Point} A Point object.
+         */
+        static fromString(str) {
+            // ...
+        }
     }
-}
