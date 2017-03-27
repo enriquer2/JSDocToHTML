@@ -107,4 +107,5 @@ zealously his repulsive. To open draw dear be by side like.
 | name | <code>string</code> | Doesn't work |
 
 <code>[Point](#Point)</code>
+<code>[Point](#calculateAge)</code>
 
