@@ -106,6 +106,9 @@ zealously his repulsive. To open draw dear be by side like.
 | date | <code>interger</code> |  |
 | name | <code>string</code> | Doesn't work |
 
+**Kind**: global function
+ijaosidjoaisdjoaisj idjsoi asjofjoasfij oasidfjp oijapsdfij poaidsjpfoijas fpoi jasdofi jsoifjasoifj oijasdpfoij apsdofji poijasdfoi japodsfji paoisdjfp oaijsdpfoija spfoijas pfoiajsdfpoiajsdfapsdofji poijasdfoi japodsfji paoisdjfp oaijsdpfoija spfoijas pfoiajsdfpoiajsdfapsdofji poijasdfoi japodsfji paoisdjfp oaijsdpfoija spfoijas pfoiajsdfpoiajsdfapsdofji poijasdfoi japodsfji paoisdjfp oaijsdpfoija spfoijas pfoiajsdfpoiajsdfapsdofji poijasdfoi japodsfji paoisdjfp oaijsdpfoija spfoijas pfoiajsdfpoiajsdfapsdofji poijasdfoi japodsfji paoisdjfp oaijsdpfoija spfoijas pfoiajsdfpoiajsdf
+
 <code>[Point](#Point)</code>
 <code>[Point](#calculateAge)</code>
 
