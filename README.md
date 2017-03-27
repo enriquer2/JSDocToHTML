@@ -106,3 +106,5 @@ zealously his repulsive. To open draw dear be by side like.
 | date | <code>interger</code> |  |
 | name | <code>string</code> | Doesn't work |
 
+<code>[Point](#Point)</code>
+
