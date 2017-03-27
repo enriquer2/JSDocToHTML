@@ -132,8 +132,12 @@ var another = function(born, date, name, surname) {
     return age;
 };
 
-
-var sayHello = function(somebody, world) {
+/**
+ * @function
+ * @param  {(string|string[])} [somebody=John Doe] - Allow one or another type
+ * @param {*} world - allow whatever yoou want
+ */
+function nosale(somebody, world) {
     if (!somebody) {
         somebody = 'John Doe';
     } else if (Array.isArray(somebody)) {
@@ -309,9 +313,21 @@ function baz(x) {}
  */
 
 /**
- * @function
- * @param  {(string|string[])} [somebody=John Doe] - Allow one or another type
- * @param {*} world - allow whatever yoou want
- * @callback sayHello
- * 
+ * @class
+ */
+function Requester() {}
+
+/**
+ * Send a request.
+ * @param {Requester~requestCallback} cb - The callback that handles the response.
+ */
+Requester.prototype.send = function(cb) {
+    // code
+};
+
+/**
+ * This callback is displayed as part of the Requester class.
+ * @callback Requester~requestCallback
+ * @param {number} responseCode
+ * @param {string} responseMessage
  */
