@@ -107,7 +107,14 @@ zealously his repulsive. To open draw dear be by side like.
 | name | <code>string</code> | Doesn't work |
 
 **Kind**: global function
-ijaosidjoaisdjoaisj idjsoi asjofjoasfij oasidfjp oijapsdfij poaidsjpfoijas fpoi jasdofi jsoifjasoifj oijasdpfoij apsdofji poijasdfoi japodsfji paoisdjfp oaijsdpfoija spfoijas pfoiajsdfpoiajsdfapsdofji poijasdfoi japodsfji paoisdjfp oaijsdpfoija spfoijas pfoiajsdfpoiajsdfapsdofji poijasdfoi japodsfji paoisdjfp oaijsdpfoija spfoijas pfoiajsdfpoiajsdfapsdofji poijasdfoi japodsfji paoisdjfp oaijsdpfoija spfoijas pfoiajsdfpoiajsdfapsdofji poijasdfoi japodsfji paoisdjfp oaijsdpfoija spfoijas pfoiajsdfpoiajsdfapsdofji poijasdfoi japodsfji paoisdjfp oaijsdpfoija spfoijas pfoiajsdfpoiajsdf
+<dd><p>ijaosidjoaisdjoaisj idjsoi asjofjoasfij oasidfjp oijapsdfij poaidsjpfoijas fpoi jasdofi jsoifjasoifj oijasdpfoij apsdofji poijasdfoi japodsfji paoisdjfp oaijsdpfoija spfoijas pfoiajsdfpoiajsdfapsdofji poijasdfoi japodsfji paoisdjfp oaijsdpfoija spfoijas pfoiajsdfpoiajsdfapsdofji poijasdfoi japodsfji paoisdjfp oaijsdpfoija spfoijas pfoiajsdfpoiajsdfapsdofji poijasdfoi japodsfji paoisdjfp oaijsdpfoija spfoijas pfoiajsdfpoiajsdfapsdofji poijasdfoi japodsfji paoisdjfp oaijsdpfoija spfoijas pfoiajsdfpoiajsdfapsdofji poijasdfoi japodsfji paoisdjfp oaijsdpfoija spfoijas pfoiajsdfpoiajsdf</p>
+</dd>
+
+| Param | Type | Description |
+| --- | --- | --- |
+| born | <code>interger</code> |  |
+| date | <code>interger</code> |  |
+| name | <code>string</code> | Doesn't work |
 
 <code>[Point](#Point)</code>
 <code>[Point](#calculateAge)</code>
