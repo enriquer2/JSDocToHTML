@@ -119,5 +119,5 @@ zealously his repulsive. To open draw dear be by side like.
 <code>[Point](#Point)</code>
 <code>[Source_1](https://github.com/enriquer2/pruebajsdoc/blob/developer/js/main.js)</code>
 <code>[Source_2_necesitajsdoc](https://enriquer2.github.io/pruebajsdoc/main.js.html)</code>
-<code>[Point](main.js)</code>
+<code>[Point](js/main.js)</code>
 
