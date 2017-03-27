@@ -96,7 +96,6 @@ class Point {
  * @function
  * @param  {(string|string[])} [somebody=John Doe] - Allow one or another type
  * @param {*} world - allow whatever yoou want
- * @description DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
  * 
  * @summary HHHHHHHHHHHHHHHHHHHHHHHHVVVVVVVVVV VVVVVVVVVVVVSSSSSSSSSSSSSSSSSAAAAAAAAAAAAAA
  */

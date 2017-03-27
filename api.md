@@ -20,7 +20,7 @@ zealously his repulsive. To open draw dear be by side like.</p>
 <dt><a href="#calculateAge">calculateAge(born, date, name)</a></dt>
 <dd></dd>
 <dt><a href="#nosale">nosale([somebody], world)</a></dt>
-<dd><p>DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF</p>
+<dd><p>PRIMERA descripcion shfihusofiua hdofuhs fuhaosdfuh oaisduhfoi ausdhfiu hsofi hausfuhasoidfuhasoidhfu oaisudhf oaisudhfoiaushdfoiu hsduhsadfuh oaidushf</p>
 </dd>
 </dl>
 
@@ -104,7 +104,7 @@ It is a By impossible of in difficulty discovered celebrated ye.Justice joy man
 <a name="nosale"></a>
 
 ## nosale([somebody], world)
-DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+PRIMERA descripcion shfihusofiua hdofuhs fuhaosdfuh oaisduhfoi ausdhfiu hsofi hausfuhasoidfuhasoidhfu oaisudhf oaisudhfoiaushdfoiu hsduhsadfuh oaidushf
 
 **Kind**: global function  
 **Summary**: HHHHHHHHHHHHHHHHHHHHHHHHVVVVVVVVVV VVVVVVVVVVVVSSSSSSSSSSSSSSSSSAAAAAAAAAAAAAA  

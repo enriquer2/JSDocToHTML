@@ -20,7 +20,7 @@ zealously his repulsive. To open draw dear be by side like.</p>
 <dt><a href="#calculateAge">calculateAge(born, date, name)</a></dt>
 <dd></dd>
 <dt><a href="#nosale">nosale([somebody], world)</a></dt>
-<dd><p>DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF</p>
+<dd><p>PRIMERA descripcion shfihusofiua hdofuhs fuhaosdfuh oaisduhfoi ausdhfiu hsofi hausfuhasoidfuhasoidhfu oaisudhf oaisudhfoiaushdfoiu hsduhsadfuh oaidushf</p>
 </dd>
 </dl>
 
@@ -109,7 +109,7 @@ zealously his repulsive. To open draw dear be by side like.
 <a name="nosale"></a>
 
 ## nosale([somebody], world)
-DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+PRIMERA descripcion shfihusofiua hdofuhs fuhaosdfuh oaisduhfoi ausdhfiu hsofi hausfuhasoidfuhasoidhfu oaisudhf oaisudhfoiaushdfoiu hsduhsadfuh oaidushf
 
 **Kind**: global function  
 **Summary**: HHHHHHHHHHHHHHHHHHHHHHHHVVVVVVVVVV VVVVVVVVVVVVSSSSSSSSSSSSSSSSSAAAAAAAAAAAAAA  
@@ -119,7 +119,8 @@ DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD FFFFFFFFFFFFFFFFFFFFFF
 | [somebody] | <code>string</code> \| <code>Array.&lt;string&gt;</code> | <code>&quot;John Doe&quot;</code> | Allow one or another type |
 | world | <code>\*</code> |  | allow whatever yoou want |
 
-
+> Podemos probar que esto tambien funciona, porque no lo sabemos con seguridad ygn kuyhiuhdhfoi aushdf iuh iushdfishapsdufjh piuashdfoushdfi hasdiufhasdf
+>usdhifu hisudhfiuhdsif usiudhfiudhishufi  spofijupaosduf asdjif 82342 34 234
 
 <code>[Point](#Point)</code>
 <code>[Source_1](https://github.com/enriquer2/pruebajsdoc/blob/developer/js/mainjsdoc2md.js)</code>
