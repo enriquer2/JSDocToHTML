@@ -1,6 +1,6 @@
 /**
  * @file Manages the configuration settings for the widget.
- * @author Rowina Sanela 
+ * @author Alfatex extremo
  */
 
 
@@ -142,7 +142,7 @@ var another = function(born, date, name, surname) {
  * @file This is my first script.
  * @copyright R2 2017
  */
-let siNoSedefineNoVa = function sayHello(somebody, world) {
+let sayHello = function(somebody, world) {
     if (!somebody) {
         somebody = 'John Doe';
     } else if (Array.isArray(somebody)) {
