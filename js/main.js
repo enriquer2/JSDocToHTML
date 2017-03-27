@@ -55,46 +55,38 @@ document.getElementById('calcBtn1').addEventListener('click', function() {
 /** Class representing a point. 
  * This is a description of the class
  */
-1. First Item
-2. Second casa
-
-# H1 Header
-
-    **
-    Bold **
-
-    class Point {
-        /**
-         * Create a point.
-         * @param {number} x - The x value.
-         * @param {number} y - The y value.
-         */
-        constructor(x, y) {
-            // ...
-        }
-
-        /**
-         * Get the x value.
-         * @return {number} The x value.
-         */
-        getX() {
-            // ...
-        }
-
-        /**
-         * Get the y value.
-         * @return {number} The y value.
-         */
-        getY() {
-            // ...
-        }
-
-        /**
-         * Convert a string containing two comma-separated numbers into a point.
-         * @param {string} str - The string containing two comma-separated numbers.
-         * @return {Point} A Point object.
-         */
-        static fromString(str) {
-            // ...
-        }
+class Point {
+    /**
+     * Create a point.
+     * @param {number} x - The x value.
+     * @param {number} y - The y value.
+     */
+    constructor(x, y) {
+        // ...
     }
+
+    /**
+     * Get the x value.
+     * @return {number} The x value.
+     */
+    getX() {
+        // ...
+    }
+
+    /**
+     * Get the y value.
+     * @return {number} The y value.
+     */
+    getY() {
+        // ...
+    }
+
+    /**
+     * Convert a string containing two comma-separated numbers into a point.
+     * @param {string} str - The string containing two comma-separated numbers.
+     * @return {Point} A Point object.
+     */
+    static fromString(str) {
+        // ...
+    }
+}
