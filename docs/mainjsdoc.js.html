@@ -27,6 +27,12 @@
     <section>
         <article>
             <pre class="prettyprint source linenums"><code>/**
+ * @file Manages the configuration settings for the widget.
+ * @author Rowina Sanela 
+ */
+
+
+/**
  * It is a By impossible of in difficulty discovered celebrated ye.
  * Justice joy manners boy met resolve produce. Bed head loud next plan rent had easy
  * add him. As earnestly shameless elsewhere defective estimable fulfilled of.
@@ -155,6 +161,7 @@ var another = function(born, date, name, surname) {
 };
 
 /**
+ * @function
  * @param  {(string|string[])} [somebody=John Doe] - Allow one or another type
  * @param {*} world - allow whatever yoou want
  * @callback Point
@@ -191,9 +198,11 @@ class Point3D {
 }
 
 /**
+ * Constante de color
  * @constant
  * @type {string}
  * @default
+ * @description Para este comentarios si hace falta especidicarlo
  */
 const RED = 'FF0000';
 
@@ -212,7 +221,123 @@ var Person = makeClass(
             return this.name + " says: " + message;
         }
     }
-);</code></pre>
+);
+
+/**
+ * Enum for tri-state values.
+ * @readonly
+ * @enum {number}
+ */
+var triState = {
+    /** The true value */
+    TRUE: 1,
+    FALSE: -1,
+    /** @type {boolean} */
+    MAYBE: true
+};
+
+/**
+ * Solves equations of the form a * x = b
+ * @example
+ * // returns 2
+ * globalNS.method1(5, 10);
+ * @example
+ * // returns 3
+ * globalNS.method(5, 15);
+ * @returns {Number} Returns the value of x for the equation.
+ */
+globalNS.method1 = function(a, b) {
+    return b / a;
+};
+
+/**
+ * Solves equations of the form a * x = b
+ * @example &lt;caption>Example usage of method1.&lt;/caption>
+ * // returns 2
+ * globalNS.method1(5, 10);
+ * @returns {Number} Returns the value of x for the equation.
+ */
+globalNS.method2 = function(a, b) {
+    return b / a;
+};
+
+(function() {
+    /** @global */
+    var foo = 'hello foo';
+
+    this.foo = foo;
+}).apply(window);
+
+
+/** @namespace */
+var BaseObject = {
+    /**
+     * foo is now BaseObject#foo rather than BaseObject.foo.
+     * @instance
+     */
+    foo: null
+};
+
+/** Generates BaseObject instances. */
+function fooFactory(fooValue) {
+    var props = { foo: fooValue };
+    return Object.create(BaseObject, props);
+}
+
+/** @class */
+function Data() {
+    /** @member {Object} */
+    this.point = {};
+}
+
+/**
+ * Solves equations of the form a * x = b. Returns the value
+ * of x.
+ * @version 1.2.3
+ * @tutorial solver
+ */
+function solver(a, b) {
+    return b / a;
+}
+
+
+/**
+ * @namespace
+ * @property {object}  defaults               - The default values for parties.
+ * @property {number}  defaults.players       - The default number of players.
+ * @property {string}  defaults.level         - The default level for the party.
+ * @property {object}  defaults.treasure      - The default treasure.
+ * @property {number}  defaults.treasure.gold - How much gold the party starts with.
+ */
+var config = {
+    defaults: {
+        players: 1,
+        level: 'beginner',
+        treasure: {
+            gold: 0
+        }
+    }
+};
+
+
+/**
+ * This class requires the modules {@link module:xyzcorp/helper} and
+ * {@link module:xyzcorp/helper.ShinyWidget#polish}.
+ * @class
+ * @requires module:xyzcorp/helper
+ * @requires xyzcorp/helper.ShinyWidget#polish
+ */
+function Widgetizer() {}
+
+/**
+ * @throws {InvalidArgumentException}
+ */
+function foo(x) {}
+
+/**
+ * @throws {DivideByZero} Argument x must be non-zero.
+ */
+function baz(x) {}</code></pre>
         </article>
     </section>
 
@@ -222,13 +347,13 @@ var Person = makeClass(
 </div>
 
 <nav>
-    <h2><a href="index.html">Home</a></h2><h3>Classes</h3><ul><li><a href="Person.html">Person</a></li><li><a href="Point.html">Point</a></li><li><a href="Point3D.html">Point3D</a></li><li><a href="UniversityLibrarian.html">UniversityLibrarian</a></li></ul><h3>Global</h3><ul><li><a href="global.html#another">another</a></li><li><a href="global.html#calculateAge">calculateAge</a></li><li><a href="global.html#calculateMonthlyPayment">calculateMonthlyPayment</a></li><li><a href="global.html#ONE">ONE</a></li><li><a href="global.html#RED">RED</a></li></ul>
+    <h2><a href="index.html">Home</a></h2><h3>Classes</h3><ul><li><a href="Data.html">Data</a></li><li><a href="Person.html">Person</a></li><li><a href="Point.html">Point</a></li><li><a href="Point3D.html">Point3D</a></li><li><a href="UniversityLibrarian.html">UniversityLibrarian</a></li><li><a href="Widgetizer.html">Widgetizer</a></li></ul><h3>Namespaces</h3><ul><li><a href="BaseObject.html">BaseObject</a></li><li><a href="config.html">config</a></li></ul><h3>Global</h3><ul><li><a href="global.html#another">another</a></li><li><a href="global.html#baz">baz</a></li><li><a href="global.html#calculateAge">calculateAge</a></li><li><a href="global.html#calculateMonthlyPayment">calculateMonthlyPayment</a></li><li><a href="global.html#foo">foo</a></li><li><a href="global.html#fooFactory">fooFactory</a></li><li><a href="global.html#ONE">ONE</a></li><li><a href="global.html#RED">RED</a></li><li><a href="global.html#solver">solver</a></li><li><a href="global.html#triState">triState</a></li></ul>
 </nav>
 
 <br class="clear">
 
 <footer>
-    Documentation generated by <a href="https://github.com/jsdoc3/jsdoc">JSDoc 3.4.3</a> on Mon Mar 27 2017 12:42:18 GMT+0200 (Hora de verano romance)
+    Documentation generated by <a href="https://github.com/jsdoc3/jsdoc">JSDoc 3.4.3</a> on Mon Mar 27 2017 12:54:28 GMT+0200 (Hora de verano romance)
 </footer>
 
 <script> prettyPrint(); </script>
