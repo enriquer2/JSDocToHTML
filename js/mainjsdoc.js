@@ -135,7 +135,7 @@ var another = function(born, date, name, surname) {
  * @file This is my first script.
  * @copyright R2 2017
  */
-function sayHello(somebody, world) {
+let siNoSedefineNoVa = function sayHello(somebody, world) {
     if (!somebody) {
         somebody = 'John Doe';
     } else if (Array.isArray(somebody)) {
@@ -146,3 +146,42 @@ function sayHello(somebody, world) {
     console.log('Hello ' + JSON.stringify(world));
 
 }
+
+/**
+ * @class Point3D
+ */
+class Point3D {
+    /**
+     * Create a point.
+     * @param {number} x - The x value.
+     * @param {number} y - The y value.
+     * @param {number} z - The z value.
+     */
+    constructor(x, y, z) {
+        // ...
+    }
+}
+
+/**
+ * @constant
+ * @type {string}
+ * @default
+ */
+const RED = 'FF0000';
+
+/** @constant {number} */
+let ONE = 1;
+
+var Person = makeClass(
+    /** @lends Person.prototype */
+    {
+        /** @constructs */
+        initialize: function(name) {
+            this.name = name;
+        },
+        /** Describe me. */
+        say: function(message) {
+            return this.name + " says: " + message;
+        }
+    }
+);
