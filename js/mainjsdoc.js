@@ -90,3 +90,59 @@ class Point {
         // ...
     }
 }
+
+/**
+ * @param  {} name
+ * @param  {} {this._name=name;}assistCustomer(custName
+ * @param  {} {console.log(this.name+'isassisting'+custName
+ */
+
+class UniversityLibrarian {
+    constructor(name) {
+        this._name = name;
+    }
+
+    assistCustomer(custName) {
+        console.log(this.name + ' is assisting ' + custName);
+    }
+}
+
+let lib1 = new UniversityLibrarian();
+/**
+ * @param  {int} born
+ * @param  {integer} date
+ * @param  {string} name
+ * @param  {string} [surname] - It is optional
+ * 
+ */
+var another = function(born, date, name, surname) {
+    if (born) {
+        var age = date - born;
+    }
+    if (!surname) {
+        surname = "R2";
+    }
+    var age = date - born;
+    return age;
+};
+
+/**
+ * @param  {(string|string[])} [somebody=John Doe] - Allow one or another type
+ * @param {*} world - allow whatever yoou want
+ * @callback Point
+ * @callback {Point}
+ * 
+ * @file This is my first script.
+ * @copyright R2 2017
+ */
+function sayHello(somebody, world) {
+    if (!somebody) {
+        somebody = 'John Doe';
+    } else if (Array.isArray(somebody)) {
+        somebody = somebody.join(', ');
+    }
+    alert('Hello ' + somebody);
+
+    console.log('Hello ' + JSON.stringify(world));
+
+}
