@@ -20,7 +20,7 @@ zealously his repulsive. To open draw dear be by side like.</p>
 <dt><a href="#calculateAge">calculateAge(born, date, name)</a></dt>
 <dd></dd>
 <dt><a href="#nosale">nosale([somebody], world)</a></dt>
-<dd><p>PRIMERA descripcion shfihusofiua hdofuhs fuhaosdfuh oaisduhfoi ausdhfiu hsofi hausfuhasoidfuhasoidhfu oaisudhf oaisudhfoiaushdfoiu hsduhsadfuh oaidushf</p>
+<dd><p>DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF</p>
 </dd>
 </dl>
 
@@ -104,12 +104,13 @@ It is a By impossible of in difficulty discovered celebrated ye.Justice joy man
 <a name="nosale"></a>
 
 ## nosale([somebody], world)
-PRIMERA descripcion shfihusofiua hdofuhs fuhaosdfuh oaisduhfoi ausdhfiu hsofi hausfuhasoidfuhasoidhfu oaisudhf oaisudhfoiaushdfoiu hsduhsadfuh oaidushf
+DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
 
 **Kind**: global function  
+**Summary**: HHHHHHHHHHHHHHHHHHHHHHHHVVVVVVVVVV VVVVVVVVVVVVSSSSSSSSSSSSSSSSSAAAAAAAAAAAAAA  
 
 | Param | Type | Default | Description |
 | --- | --- | --- | --- |
 | [somebody] | <code>string</code> \| <code>Array.&lt;string&gt;</code> | <code>&quot;John Doe&quot;</code> | Allow one or another type |
-| world | <code>\*</code> |  | allow whatever yoou want DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF |
+| world | <code>\*</code> |  | allow whatever yoou want |
 
