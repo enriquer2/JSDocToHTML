@@ -90,3 +90,22 @@ class Point {
         // ...
     }
 }
+
+/**
+ * @description PRIMERA descripcion shfihusofiua hdofuhs fuhaosdfuh oaisduhfoi ausdhfiu hsofi hausfuhasoidfuhasoidhfu oaisudhf oaisudhfoiaushdfoiu hsduhsadfuh oaidushf 
+ * @function
+ * @param  {(string|string[])} [somebody=John Doe] - Allow one or another type
+ * @param {*} world - allow whatever yoou want
+ * DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+ */
+function nosale(somebody, world) {
+    if (!somebody) {
+        somebody = 'John Doe';
+    } else if (Array.isArray(somebody)) {
+        somebody = somebody.join(', ');
+    }
+    alert('Hello ' + somebody);
+
+    console.log('Hello ' + JSON.stringify(world));
+
+}

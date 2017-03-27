@@ -19,6 +19,9 @@ zealously his repulsive. To open draw dear be by side like.</p>
 </dd>
 <dt><a href="#calculateAge">calculateAge(born, date, name)</a></dt>
 <dd></dd>
+<dt><a href="#nosale">nosale([somebody], world)</a></dt>
+<dd><p>PRIMERA descripcion shfihusofiua hdofuhs fuhaosdfuh oaisduhfoi ausdhfiu hsofi hausfuhasoidfuhasoidhfu oaisudhf oaisudhfoiaushdfoiu hsduhsadfuh oaidushf</p>
+</dd>
 </dl>
 
 <a name="Point"></a>
@@ -97,4 +100,16 @@ It is a By impossible of in difficulty discovered celebrated ye.Justice joy man
 | born | <code>interger</code> |  |
 | date | <code>interger</code> |  |
 | name | <code>string</code> | Doesn't work |
+
+<a name="nosale"></a>
+
+## nosale([somebody], world)
+PRIMERA descripcion shfihusofiua hdofuhs fuhaosdfuh oaisduhfoi ausdhfiu hsofi hausfuhasoidfuhasoidhfu oaisudhf oaisudhfoiaushdfoiu hsduhsadfuh oaidushf
+
+**Kind**: global function  
+
+| Param | Type | Default | Description |
+| --- | --- | --- | --- |
+| [somebody] | <code>string</code> \| <code>Array.&lt;string&gt;</code> | <code>&quot;John Doe&quot;</code> | Allow one or another type |
+| world | <code>\*</code> |  | allow whatever yoou want DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF |
 
