@@ -24,8 +24,7 @@ zealously his repulsive. To open draw dear be by side like.</p>
 <a name="Point"></a>
 
 ## Point
-Class representing a point. 
-This is a description of the class
+Class representing a point. This is a description of the class
 
 **Kind**: global class  
 
@@ -77,11 +76,7 @@ Convert a string containing two comma-separated numbers into a point.
 <a name="calculateMonthlyPayment"></a>
 
 ## calculateMonthlyPayment(principal, years, rate)
-It is a By impossible of in difficulty discovered celebrated ye.
-Justice joy manners boy met resolve produce. Bed head loud next plan rent had easy
-add him. As earnestly shameless elsewhere defective estimable fulfilled of.
-Esteem my advice it an excuse enable. Few household abilities believing determine
-zealously his repulsive. To open draw dear be by side like.
+It is a By impossible of in difficulty discovered celebrated ye.Justice joy manners boy met resolve produce. Bed head loud next plan rent had easyadd him. As earnestly shameless elsewhere defective estimable fulfilled of.Esteem my advice it an excuse enable. Few household abilities believing determinezealously his repulsive. To open draw dear be by side like.
 
 **Kind**: global function  
 **Sumary**: A concise summary  
@@ -103,4 +98,3 @@ zealously his repulsive. To open draw dear be by side like.
 | date | <code>interger</code> |  |
 | name | <code>string</code> | Doesn't work |
 
-<code>[Point](#Point)</code>
