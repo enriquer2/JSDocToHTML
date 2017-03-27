@@ -322,6 +322,7 @@ function Requester() {}
  * @param {Requester~requestCallback} cb - The callback that handles the response.
  * @summary Summary se utiliza para hace un pequeño resumen de lo que queramos con tara.....shjdkah dkhasdkjh kajshdk ajhsdkj haksdjhakjsdhkajs hdkjahdskjahdkjahdsiyag diyasg
  */
+// Y este comentario saldra o no saldra como explicacion JJJJAJAJAJAJAJAJAJA JASHAJ HSKAJHKHK ASKHAKS AHS
 Requester.prototype.send = function(cb) {
     // code
 };
