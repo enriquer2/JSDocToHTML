@@ -132,17 +132,8 @@ var another = function(born, date, name, surname) {
     return age;
 };
 
-/**
- * @function
- * @param  {(string|string[])} [somebody=John Doe] - Allow one or another type
- * @param {*} world - allow whatever yoou want
- * @callback Point
- * @callback {Point}
- * 
- * @file This is my first script.
- * @copyright R2 2017
- */
-let sayHello = function(somebody, world) {
+
+var sayHello = function(somebody, world) {
     if (!somebody) {
         somebody = 'John Doe';
     } else if (Array.isArray(somebody)) {
@@ -310,3 +301,17 @@ function foo(x) {}
  * @throws {DivideByZero} Argument x must be non-zero.
  */
 function baz(x) {}
+
+/**
+ * 
+ * @file This is my first script.
+ * @copyright R2 2017
+ */
+
+/**
+ * @function
+ * @param  {(string|string[])} [somebody=John Doe] - Allow one or another type
+ * @param {*} world - allow whatever yoou want
+ * @callback sayHello
+ * 
+ */
