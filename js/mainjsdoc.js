@@ -165,11 +165,11 @@ class Point3D {
 }
 
 /**
- * Constante de color
+ * @description Constante de color
  * @constant
  * @type {string}
  * @default
- * @description Para este comentarios si hace falta especidicarlo
+ * 
  */
 const RED = 'FF0000';
 
@@ -314,12 +314,13 @@ function baz(x) {}
 
 /**
  * @class
+ * @description Ultima clase añadida al codigo
  */
 function Requester() {}
-
 /**
  * Send a request.
  * @param {Requester~requestCallback} cb - The callback that handles the response.
+ * @summary Summary se utiliza para hace un pequeño resumen de lo que queramos con tara.....shjdkah dkhasdkjh kajshdk ajhsdkj haksdjhakjsdhkajs hdkjahdskjahdkjahdsiyag diyasg
  */
 Requester.prototype.send = function(cb) {
     // code
